@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vSRQwr1b1feCU/UPKoHCAML81PR1Z/7UIUMKcpLFk22cJSG0QQDDZJ/uajQvmnOJ+mF/84ZT1wSNxa0ewVpp5A==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\Repo\\DesignPattern\\adapterPattern\\AdapterPatternDotnetCore\\ProductService\\ProductService\\ProductService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
